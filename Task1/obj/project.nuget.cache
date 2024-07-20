@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFWAdon/c42FnI1YKzjaXXL6u3N05ic9iDEWnF6bT+5qkrvL0FGRlP4E+FNm32P5Zuwz0bnnEauopl2VqhzqLg==",
+  "success": true,
+  "projectFilePath": "/home/mrcat/Programming /C#/Homework12/Task1/Task1.csproj",
+  "expectedPackageFiles": [
+    "/home/mrcat/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
